@@ -2,13 +2,16 @@
 
 **Introduction**
 
-Riri mod is really a Copper Mod in Minecraft that adds new copper items and blocks to the game. With this mod, players can craft copper ingots, copper blocks, copper wire, and mine copper ore, all these items can be found on ther own tab in the inventory. The mod is designed to run on version 1.16.5 of Minecraft.
+Riri mod is really a Copper Mod in Minecraft that adds new copper items and blocks to the game. With this mod, players can craft copper ingots, copper blocks, copper wire, and mine copper ore, all these items can be found on ther own tab in the inventory. The mod is designed to run on version 1.16.5 of Minecraft. The project can be found on the master branch
 
 **Features**
 
 Copper Ingot: A new item that can be crafted from copper ore.
+
 Copper Block: A decorative block that can be crafted from nine copper ingots.
+
 Copper Wire: A new item that can be used to connect redstone components.
+
 Copper Ore: A new ore block that can be mined to obtain copper.
 
 **Issues**
