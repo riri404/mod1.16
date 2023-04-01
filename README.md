@@ -24,4 +24,4 @@ Copper Mod is licensed under the MIT License. See the LICENSE file for more info
 
 **Credits**
 
-Copper Mod was created by Minecraft Modder. Special thanks to Minecraft Forge for making modding possible, and to the Minecraft community for their support.
+Copper Mod was created by Rama Alrifai. Special thanks to Minecraft Forge for making modding possible, and to the Minecraft community for their support.
